@@ -278,4 +278,4 @@ if mode == 'e':
         f.write(result)
 elif mode == 'd':
     result = decrypt(text, positions)
-    print("Decrypted message:", result
+    print("Decrypted message:", result)
